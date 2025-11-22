@@ -174,6 +174,6 @@ from its parent (or next in MRO).
 :-Common uses: call parent init, extend parent methods, and support cooperative
  multiple inheritance."""
 
-class c1:
-    def __init__(self):
+# class c1:
+#     def __init__(self):
         
