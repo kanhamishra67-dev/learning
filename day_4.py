@@ -147,25 +147,27 @@
 #         print("*",end="")
 #     print()
 
-n=int(input())
+# n=int(input())
 
-for i in range((n*2)-1):
-    if i<=(n-1):
-        for j in range(i+1):
-            print('*',end="")
-        for k in range(((n*2)-1)-(2*(i+1))):
-            print(" ",end="")
-        if i<n-1:    
-                for l in range(i+1):
-                    print("*",end="")
-        else :
-                for o in range(n-1):
-                    print("*",end="")     
-    else:
-        for m in range((n*2)-i-1):
-            print("*",end="")
-        for p in range((2*(i-n+1))-1):
-            print(" ",end="")
-        for q in range((n*2)-i-1):
-            print("*",end="") 
-    print()
+# for i in range((n*2)-1):
+#     if i<=(n-1):
+#         for j in range(i+1):
+#             print('*',end="")
+#         for k in range(((n*2)-1)-(2*(i+1))):
+#             print(" ",end="")
+#         if i<n-1:    
+#                 for l in range(i+1):
+#                     print("*",end="")
+#         else :
+#                 for o in range(n-1):
+#                     print("*",end="")     
+#     else:
+#         for m in range((n*2)-i-1):
+#             print("*",end="")
+#         for p in range((2*(i-n+1))-1):
+#             print(" ",end="")
+#         for q in range((n*2)-i-1):
+#             print("*",end="") 
+#     print()
+
+print("based on context.")
