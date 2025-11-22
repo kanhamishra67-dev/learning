@@ -170,4 +170,6 @@
 #             print("*",end="") 
 #     print()
 
-print("based on context.")
+# print("based on context.")
+
+"""ram ram lader"""
